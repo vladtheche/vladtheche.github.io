@@ -1,9 +1,16 @@
 body {
-    background-color: rgba(10, 113, 147, 0.74);
+    background-color: rgba(9, 113, 147, 0.74);
+    color: Navy;
     margin-left: 10%;
     margin-right: 10%;
 }
 
+h1 {
+    font-size: 50px;
+    font-family: Arial;
+}
 p{
+    
     font-size: 20px;
 }
+
