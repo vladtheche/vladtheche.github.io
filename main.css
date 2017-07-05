@@ -1,10 +1,9 @@
 body {
-    background-color: red;
+    background-color: rgba(9, 113, 147, 0.74);
     margin-left: 10%;
     margin-right: 10%;
 }
 
 p{
-    background-color: red;
     font-size: 20px;
 }
