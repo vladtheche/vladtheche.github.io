@@ -1,17 +1,40 @@
 body {
-    background-color: rgba(9, 113, 147, 0.74);
-    color: Navy;
+    background-image: url(background.jpg);
     margin-left: 10%;
     margin-right: 10%;
+    
 }
 
 h1 {
+    color: #fff;
     text-align: center;
     font-size: 50px;
     font-family: Arial;
 }
+h2{
+    position: fixed;
+    left: 5%;
+    right: 5%;
+    text-align: justify;
+    text-align-last: justify;
+    color: #fff;
+    opacity: 0.8;
+    margin-top: 0%;
+    font-size: 30px;
+    font-family: Arial;
+}
 p{
-    
-    font-size: 20px;
+    margin-top: 20%;
+    margin-bottom: 10%;
+    background-color: rgba(0, 0, 0, 0.15);
+    color: #fff;
+    text-align: justify;
+    text-align-last: justify;
+    font-size: 30px;
+}
+
+.trans75{
+    opacity: 0.75;
+    height: 0.5;
 }
 
